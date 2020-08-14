@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">KPOPPedia</string>
+    <string name="kpop_name">Group Name</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="data_kpop_name">data_kpop_name</string>
+    <string name="data_kpop_detail">data_kpop_detail</string>
+    <string name="share">share</string>
+    <string name="profile_name">Konik Saputra</string>
+    <string name="profile_address">Tangerang Selatan, INA</string>
+    <string name="profile_label_email">Email</string>
+    <string name="profile_name_email">koniksaputra@live.com</string>
+    <string name="profile_label_instagram">Instagram</string>
+    <string name="profile_name_instagram">instagram.com/koniksaputra</string>
+    <string name="profile_label_twitter">Twitter</string>
+    <string name="profile_name_twitter">twitter.com/koniksaputra</string>
+    <string name="profile_label_facebook">Facebook</string>
+    <string name="profile_name_facebook">facebook.com/koniksaputra</string>
+</resources>
