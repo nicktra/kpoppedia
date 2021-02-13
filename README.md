@@ -1,16 +1,15 @@
-
 <p align="center">
   <a href="https://github.com/nicktra/kpoppedia">
     <img src="app/src/main/res/drawable/icon.jpg" alt="Logo" width="80" height="80">
   </a>
+</p>
+  
+<h3 align="center">KPOPPedia</h3>
 
-  <h3 align="center">KPOPPedia</h3>
-
-  <p align="center">
+<p align="center">
     KPOPPedia is android app about KPOP Group.
     <br />
     <a href="https://github.com/nicktra/kpoppedia"><strong>Explore the docs »</strong></a>
-  </p>
 </p>
 
 # KPOPPedia
@@ -35,14 +34,23 @@ git clone https://github.com/nicktra/footballx-pwa.git
 ```
 2. Open with your Android Studio
 
-## Deployment
+## Features
 
-Add additional notes about how to deploy this on a live system
+* List Mode Group
+* Grid Mode Group
+* Detail Group
+* Share Group
+
+## Screenshots App
+<pre>
+<img src="screenshots/screenshot1.jpg" width="30%">    <img src="screenshots/screenshot2.jpg" width="30%">  <img src="screenshots/screenshot3.jpg" width="30%">    <img src="screenshots/screenshot4.jpg" width="30%">
+</pre>
 
 ## Built With
 
 * [Kotlin](https://kotlinlang.org/) - The Programming Language
-* [Android Studio](https://developer.android.com/studio) - IDE
+* [Glide](https://github.com/bumptech/glide) is a fast and efficient open source media management and image loading framework for Android that wraps media decoding, memory and disk caching, and resource pooling into a simple and easy to use interface.
+* [CircleImageView](https://github.com/hdodenhof/CircleImageView) A circular ImageView for Android.
 
 ## Contributing
 
