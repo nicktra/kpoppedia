@@ -30,7 +30,7 @@ Things you need to install the software and how to install them
 
 1. Clone the repo
 ```sh
-git clone https://github.com/nicktra/footballx-pwa.git
+git clone https://github.com/nicktra/kpoppedia.git
 ```
 2. Open with your Android Studio
 
