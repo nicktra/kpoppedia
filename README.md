@@ -43,7 +43,7 @@ git clone https://github.com/nicktra/footballx-pwa.git
 
 ## Screenshots App
 <pre>
-<img src="screenshots/screenshot1.jpg" width="30%">    <img src="screenshots/screenshot2.jpg" width="30%">  <img src="screenshots/screenshot3.jpg" width="30%">    <img src="screenshots/screenshot4.jpg" width="30%">
+<img src="screenshots/screenshot1.jpg" width="25%">    <img src="screenshots/screenshot2.jpg" width="25%">    <img src="screenshots/screenshot3.jpg" width="25%">    <img src="screenshots/screenshot4.jpg" width="25%">
 </pre>
 
 ## Built With
